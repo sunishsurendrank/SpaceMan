@@ -11,8 +11,6 @@ This game is developed in python using the library pygame.Inspired from Flappy B
 - Reach Sunish in LinkedIn : https://www.linkedin.com/in/sunishsurendrank/
 - Reach Sunish in Twitter : @sunishsurendran
 
-![image](./images/screenshot1.PNG)
-![image](./images/screenshot2.PNG)
 
 # How to play SpaceMan in your machine
 
