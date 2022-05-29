@@ -18,7 +18,8 @@ This game is developed in python using the library pygame.Inspired from Flappy B
 Clone this repository to your desktop 
 
 `git clone https://github.com/sunishsurendrank/SpaceMan.git`
-`git checkout tags/vijay -b vijay`
+
+`git checkout -b vijay`
 
 ### Step 2:
 Install latest version of python in your machine.
