@@ -66,7 +66,7 @@ if __name__ == "__main__":
     title_font          = pygame.font.SysFont('Arial', 50)
     message_font        = pygame.font.SysFont('Arial', 20)
     score_font          = pygame.font.SysFont('Arial', 20)
-    character_image     = pygame.image.load("./images/character.png")
+    character_image     = pygame.image.load("./images/character2.png")
     gameover_image      = pygame.image.load("./images/gameover.png")
     background_image    = pygame.image.load("./images/background.jpg")
 
