@@ -2,7 +2,7 @@
 
 
 
-# SpaceMan Game
+# SpaceMan Game (Beast Mode)
 
 This game is developed in python using the library pygame.Inspired from Flappy Bird game in android.
 
@@ -17,7 +17,10 @@ This game is developed in python using the library pygame.Inspired from Flappy B
 # How to play SpaceMan in your machine
 
 ### Step 1: 
-Clone this repository to your desktop
+Clone this repository to your desktop 
+
+`git clone https://github.com/sunishsurendrank/SpaceMan.git`
+`git checkout tags/vijay -b vijay`
 
 ### Step 2:
 Install latest version of python in your machine.
